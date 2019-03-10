@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyTOV-STT/master) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyTOVpp/blob/master/TOV-pp-STT.ipynb?flush_cache=true)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyTOV-STT/blob/master/TOV-pp-STT.ipynb/master) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyTOV-STT/blob/master/TOV-pp-STT.ipynb?flush_cache=true)
 
 # pyTOV-STT
 
